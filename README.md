@@ -19,5 +19,7 @@ Repository made for Challenge 1 of the Networking for Big Data and Laboratory cl
 
 4. ``.gitignore``: A predetermined `.gitignore` file that tells Git which files or folders to ignore in a Python project.
 
+5. `NBD-Challenge1.pdf`: A pdf file containing the final report of the challenge.
+
 6. `plots/`: A folder containing all relevant plots.
 
